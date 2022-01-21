@@ -1,0 +1,6 @@
+name: 'AsheKR'
+description: 'Provide a description here'
+author: 'AsheKR'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
